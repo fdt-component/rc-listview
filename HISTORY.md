@@ -1,4 +1,4 @@
-# ygq-rc-listView
+# ygq-rc-listview
 
 ## 1.0.0
 

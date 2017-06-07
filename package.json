@@ -1,6 +1,6 @@
 {
   "name": "ygq-rc-listview",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "...",
   "author": "yangguoquan",
   "engines": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:fdt-component/rc-listView.git"
+    "url": "git@github.com:fdt-component/rc-listview.git"
   },
   "scripts": {
     "dev": "sudo NODE_ENV=development gulp dev",

@@ -1,20 +1,20 @@
-# ygq-rc-listView
+# ygq-rc-listview
 [![NPM version][npm-image]][npm-url]
 [![npm download][download-image]][download-url]
 
-[npm-image]: http://img.shields.io/npm/v/rc-listView.svg?style=flat-square
-[npm-url]: http://npmjs.org/package/rc-listView
-[download-image]: https://img.shields.io/npm/dm/ygq-rc-listView.svg?style=flat-square
-[download-url]: https://npmjs.org/package/ygq-rc-listView
-...
+[npm-image]: http://img.shields.io/npm/v/ygq-rc-listview.svg?style=flat-square
+[npm-url]: http://npmjs.org/package/ygq-rc-listview
+[download-image]: https://img.shields.io/npm/dm/ygq-rc-listview.svg?style=flat-square
+[download-url]: https://npmjs.org/package/ygq-rc-listview
+...v
 
 ## Demo
 
-https://fdt-component.github.io/rc-listView/docs/index.html
+https://fdt-component.github.io/rc-listview/docs/index.html
 
 ## install
 
-[![fdt-calendar](https://nodei.co/npm/fdt-calendar.png)](https://npmjs.org/package/fdt-calendar)
+[![ygq-rc-listview](https://nodei.co/npm/ygq-rc-listview.png)](https://npmjs.org/package/ygq-rc-listview)
 
 ## Example
 
